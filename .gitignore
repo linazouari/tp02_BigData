@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Large local datasets and generated results
+big_data.csv
+benchmark_results.csv
